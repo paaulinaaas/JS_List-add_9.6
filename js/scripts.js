@@ -14,3 +14,4 @@ addBtn.addEventListener('click', function() {
   
   // dodanie nowo utworzonego elementu do listy
   list.appendChild(newListElement);
+});
